@@ -1,5 +1,5 @@
 # pcb_robo
-This is a repo for my PCB class where I made a PCB to talk to a TurtleBot3 and control its movement.
+This is a repo for my PCB design and engineering class where I made a PCB to talk to a TurtleBot3 and control its movement.
 
 # Demo Video
 - Youtube: https://youtu.be/oqg4fr0NS5o
